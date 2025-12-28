@@ -1,5 +1,13 @@
-# 💫 About Me:
-I am a Computer Engineering student at Rcoem college in 3rd year with a strong interest in mobile application development and software engineering. I enjoy building practical, real-world applications using clean code and modern technologies. My primary focus is on Flutter-based cross-platform app development, along with a solid foundation in Java, Python, and Object-Oriented Programming. I am continuously learning and improving my problem-solving skills while exploring innovative technology-driven solutions.<br><br>🔹 Technical Skills Summary<br><br>I have hands-on experience with Flutter for developing responsive and user-friendly mobile applications. My technical skill set includes Java with a strong understanding of OOP concepts, Python for problem solving, and Dart for Flutter development. I have worked with Firebase services such as authentication and real-time databases, and I am comfortable using Git and GitHub for version control, collaboration, and project management.,python <br><br>🔹 Research & Innovation Summary<br><br>I am involved in applied research focused on healthcare innovation and intelligent systems. I have filed a patent for a smart contact lens designed to monitor cortisol levels in real time using biosensing and TinyML-based analysis. This research reflects my interest in combining software engineering, AI, and emerging technologies to develop non-invasive, real-world healthcare solutions. patent published<br><br>
+# 💫 About Me
+3rd-year Computer Engineering student at RCOEM, passionate about mobile app development and software engineering. I build practical, real-world applications with clean code and modern technologies.
+
+## 🔹 Technical Skills
+- **Mobile Development:** Flutter, Dart
+- **Programming:** Java (OOP), Python
+- **Backend & Tools:** Firebase (Auth, Realtime DB), Git/GitHub
+
+## 🔹 Patent
+**AI-Powered Contact Lens with Cortisol Monitoring** - Healthcare wearable using biosensing and TinyML for non-invasive, real-time health monitoring.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/harshvardhan-pentakota-4728aa292/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshvardhanpentakota@gmail.com) 
