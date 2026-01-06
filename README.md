@@ -15,7 +15,7 @@
 ## 🔹 Data Structures & Algorithms (DSA)
 
 - Solved **350+ problems on LeetCode** using **Java**
-- Strong grasp of Arrays, Strings, Recursion, Linked Lists, Stacks, Queues, Trees, Graphs, and Dynamic Programming
+- Strong grasp of Arrays, Strings, Recursion, Linked Lists, Stacks, Queues, Trees 
 - One of my GitHub repositories contains a **well-organized collection of DSA questions and solutions**, reflecting my consistent practice and learning journey
 - Actively improving problem-solving efficiency and code quality
 
